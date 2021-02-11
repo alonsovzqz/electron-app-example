@@ -1,0 +1,11 @@
+#todo-list {
+    margin-top: 1rem;
+}
+
+.list-group .list-group-item div i.bi-trash {
+    cursor: pointer;
+}
+
+.checked {
+    text-decoration: line-through;
+}
